@@ -1,0 +1,1 @@
+The function f1 counts the number of pairs in the array that sum to the target value.
