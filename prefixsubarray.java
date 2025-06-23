@@ -1,3 +1,8 @@
+
+// Prefix Subarray Sum Calculation
+// This program calculates the prefix sum of an array and prints the resulting prefix sum array.
+
+
 public class prefixsubarray {
   
 

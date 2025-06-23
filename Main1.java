@@ -1,3 +1,7 @@
+// The function f1 counts the number of pairs in the array that sum to the target value.
+
+
+
 class Main1 {
   
   public static void main(String[] args) {
@@ -31,6 +35,6 @@ System.out.println("Count of pairs is: " + result); }
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 // Note: The code assumes the input array is sorted in ascending order.
-// The function f1 counts the number of pairs in the array that sum to the target value.
+
 
 

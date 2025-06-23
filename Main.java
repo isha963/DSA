@@ -1,9 +1,9 @@
-import java.util.*;
+
 
 
  // This code prints all subarrays of the given array along with their sums.
-    // It uses three nested loops: the outer two loops define the start and end indices of the subarray,
-    // and the innermost loop calculates the sum of the elements in that subarray.
+ // It uses three nested loops: the outer two loops define the start and end indices of the subarray,
+ // and the innermost loop calculates the sum of the elements in that subarray.
 
 
 public class Main {
