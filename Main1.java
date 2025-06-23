@@ -32,5 +32,5 @@ System.out.println("Count of pairs is: " + result); }
 // Space Complexity: O(1)
 // Note: The code assumes the input array is sorted in ascending order.
 // The function f1 counts the number of pairs in the array that sum to the target value.
-// The main method initializes the array and calls the function to get the count of pairs.
+
 
