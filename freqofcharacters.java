@@ -21,3 +21,6 @@ public class freqofcharacters {
     sc.close();
   }
 }}
+
+
+//

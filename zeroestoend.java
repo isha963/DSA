@@ -1,17 +1,17 @@
 class zeroestoend{
   public static void main(String[] args) {
-    int []arr={1,0,3,2,0,8,1};
+    int []arr={0,0,0,2,0,8,1};
       int i=0;
       int j=arr.length -1;
 
       while(i<j){
-        while(i!=0){
+        while(arr[i]!=0){
           i++;
         }
-        while(j==0){
+        while(arr[j]==0){
           j--;
         }
-        if(i==0&&j!=0){
+        if(arr[i]==0&&arr[j]!=0&& i<j){
           int temp =arr[j];
           arr[j]=arr[i];
           arr[i]=temp;
