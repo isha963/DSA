@@ -24,7 +24,7 @@ int l =a.length-1;
 
    int m=0;
    int n=a.length-1;
-  while(m<l){
+  while(m<n){
     int temp = a[n];
       a[n]=a[m];
       a[m]=temp;
