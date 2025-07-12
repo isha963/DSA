@@ -19,4 +19,25 @@ public class q8{
       System.out.println();
     }
   }
+    static void anotherMethod() {
+       int n=5;
+    int i=0;
+    for(int j=n;j>0;j--){
+      for(int k=j;k>0;k--){
+        System.out.print(" ");
+      }
+      for(int k=0;k<i;k++){
+        System.out.print(k+1);
+      }
+      for(int k=i-1;k>0;k--){
+        System.out.print(k);
+      }
+      for(int k=j;k>0;k--){
+        System.out.print(" ");
+      }
+      i++;
+      System.out.println();
+    }
+    
+  }
 }
