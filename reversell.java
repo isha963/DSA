@@ -9,7 +9,7 @@ class node{
   }
 }
 
-public class reversell {
+public class Reversell {
   
 
   public static node reverse(node start){
@@ -52,3 +52,4 @@ public static void print(node start){
      
   }
 }
+
