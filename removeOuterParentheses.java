@@ -27,5 +27,6 @@ return result.toString();
         String s= "(()())((()))";
         String str =rOP(s);
         System.out.println(str);
+        
     }
 }
