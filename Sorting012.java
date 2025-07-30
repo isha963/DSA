@@ -1,3 +1,5 @@
+//dutch national flag algo
+
 
 public class Sorting012{
   public static void main(String[] args) {
